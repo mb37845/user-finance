@@ -14,7 +14,4 @@ pip install test-python-app
 from test_python_app import test_python_app
 
 test_python_app.hello_world()
-
 ```
-
-
